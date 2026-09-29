@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./assets/banner.svg" width="100%" alt="Dhruv Ghosal — Applied AI, RAG and Embedded Systems" />
 <br/><br/>
-<a href="https://www.linkedin.com/in/dhruv-ghosal/"><img src="https://img.shields.io/badge/LinkedIn-LET'S_CONNECT-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/dhruv-ghosal-841353247/"><img src="https://img.shields.io/badge/LinkedIn-LET'S_CONNECT-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
 <a href="https://github.com/Dhruvhash?tab=repositories"><img src="https://img.shields.io/badge/GitHub-EXPLORE_MY_WORK-8B5CF6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
 </div>
 
@@ -148,6 +148,7 @@ My published work explores AIoT for hydroponics and aeroponics, differentially p
 
 Open to applied AI, research, embedded-systems collaborations, and part-time remote opportunities.
 
-**[Connect on LinkedIn](https://www.linkedin.com/in/dhruv-ghosal/)**
+**[Connect on LinkedIn](https://www.linkedin.com/in/dhruv-ghosal-841353247/)**
 
 </div>
+
